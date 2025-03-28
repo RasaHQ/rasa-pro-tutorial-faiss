@@ -1,4 +1,4 @@
-# Implementing RAG with Rasa and Faiss
+# Implementing RAG in Rasa with Faiss and OpenAI
 
 ### Steps
 
